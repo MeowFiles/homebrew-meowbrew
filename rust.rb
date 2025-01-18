@@ -34,7 +34,7 @@ class Rust < Formula
 
   depends_on "libgit2@1.8" # upstream issue, https://github.com/rust-lang/cargo/issues/15043
   depends_on "libssh2"
-  depends_on "llvm"
+  depends_on "meowfiles/meowbrew/llvm"
   depends_on macos: :sierra
   depends_on "openssl@3"
   depends_on "pkgconf"
