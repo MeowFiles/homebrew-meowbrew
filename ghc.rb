@@ -20,7 +20,7 @@ class Ghc < Formula
     sha256 cellar: :any, arm64_sequoia: "91d82d69656f28ec22846128f6d28205b8f99f8a7abcce0406c309c394cef384"
     sha256 cellar: :any, arm64_sonoma:  "9de5f90e23350b914387674883157faa793a58619d87ece4f9bc90fe5001737c"
     sha256 cellar: :any, arm64_ventura: "1027b79cd2c730cc7268f5f1582fa94a23cb66c99d1d937f5395379e1e5c7d2b"
-    sha256 cellar: :any, sonoma:        "9a399cf1d62161f0d278b106af0dd02f5ba2bad96d911e1a96704bca34985914"
+    sha256 cellar: :any, monterey:      "9a399cf1d62161f0d278b106af0dd02f5ba2bad96d911e1a96704bca34985914"
     sha256 cellar: :any, ventura:       "ef06c3ecf24f8855afe44cd10f40088db82aead9ac408425fdf731e73a70c41b"
     sha256               arm64_linux:   "787493ddf23e1220aa1cda774272ac80bbfeb95a0ee69f585c1836c32dd18d10"
     sha256               x86_64_linux:  "8ddfb5d203315132ae9a5ea1f05a3398bf781c1e41b077cd2c88084dbce548c8"
